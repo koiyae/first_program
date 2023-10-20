@@ -41,8 +41,9 @@ s4 = Guard("Luiz", 2)
 s5 = Elite("Igor", 2)
 s6 = Soldier("Kevin", 2)
 
-
+#Hokama MORTO
 s2.alive=False
+
 s1.info()
 s2.info()
 s3.info()
